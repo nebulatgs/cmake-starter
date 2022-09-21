@@ -1,1 +1,2 @@
-image: gitpod/workspace-c
+image:
+  file: .gitpod.Dockerfile
